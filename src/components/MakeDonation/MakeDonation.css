@@ -1,0 +1,13 @@
+.banner {
+  background-image: url(../../../public/assets/images/homedonationbgrevise.jpg);
+  /* background-size: cover; */
+  background-position: center; 
+  background-repeat: no-repeat;
+}
+
+.font-style {
+  font-family: "Playfair Display", serif;
+  font-style: italic;
+  font-size: 16px;
+  line-height: 24px;
+}
